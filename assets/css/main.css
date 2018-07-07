@@ -8605,3 +8605,27 @@ input, select, textarea {
 	#first, #second, #third {
 		box-shadow:none !important;
 	}
+
+	#touch {
+		background-color: lightgray;
+
+	}
+
+	#touch a:hover {
+		color: white;
+	}
+
+	#touch .button:hover {
+		box-shadow: inset 0 0 0 1px white;
+		color: white !important;
+	}
+
+	#header {
+		margin: 0;
+		size: 20px;
+	}
+
+	#header#title {
+		margin-top: 3px;
+		margin-bottom: 5px;
+	}
