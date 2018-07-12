@@ -8624,7 +8624,7 @@ input, select, textarea {
 		size: 20px;
 	}
 
-	#header#title {
-		margin-top: 3px;
-		margin-bottom: 5px;
+	#header-title {
+		margin: 0;
+		padding-bottom: 0px;
 	}
