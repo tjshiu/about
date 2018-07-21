@@ -4862,7 +4862,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			width: 60%;
+			width: 55%;
 			max-width: 64rem;
 			margin: 0 auto;
 		}
@@ -4876,7 +4876,7 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			width: 40%;
+			width: 45%;
 			min-width: 25rem;
 			border-radius: 0;
 		}
@@ -4901,6 +4901,10 @@ input, select, textarea {
 
 			#center {
 				object-position: center;
+			}
+
+			#centerup {
+				object-position: top center;
 			}
 
 		@media screen and (max-width: 1680px) {
