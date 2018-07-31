@@ -8610,7 +8610,7 @@ input, select, textarea {
 	}
 
 	#touch {
-		background-color: lightgray;
+		background-color: #47D3E5
 
 	}
 
@@ -8631,4 +8631,12 @@ input, select, textarea {
 	#header-title {
 		margin: 0;
 		padding-bottom: 0px;
+	}
+
+	.colorful {
+		color: white;
+	}
+
+	.colorful:hover {
+		text-decoration: underline;
 	}
